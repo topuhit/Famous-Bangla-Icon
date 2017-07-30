@@ -10,14 +10,14 @@ Show off your recent press mentions with a couple lines of CSS and get back to m
 
 ```
 ├── css
-│   ├── font-famous.css
-│   └── font-famous.min.css
+│   ├── font-famous-bangla.css
+│   └── font-famous-bangla.min.css
 └── fonts
     ├── README
-    ├── fontfamous.eot
-    ├── fontfamous.svg
-    ├── fontfamous.ttf
-    └── fontfamous.woff
+    ├── fontfamous-bangla.eot
+    ├── fontfamous-bangla.svg
+    ├── fontfamous-bangla.ttf
+    └── fontfamous-bangla.woff
 ```
 
 ### License
